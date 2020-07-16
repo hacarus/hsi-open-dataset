@@ -9,28 +9,28 @@ You can use this dataset for non-profit purpose only. We would appreciate if you
 ## `coffee` 
 There are coffee beans, bug, dry, roasted, and so on.
 
-![coffee](./img/coffee.png)
+![coffee](https://raw.githubusercontent.com/hacarus/hsi-open-dataset/master/img/coffee.png)
 
 ## `rice`
 There are three kind of rice, type A, type B and type C. In addition, there is a tiny white eraser.
 
-![rice](./img/rice.png)
+![rice](https://raw.githubusercontent.com/hacarus/hsi-open-dataset/master/img/rice.png)
 
 ## `sugar_salt_flour`
 There are three white powders, sugar, salt and flour.
 
-![sugar_salt_flour](./img/sugar_salt_flour.png)
+![sugar_salt_flour](https://raw.githubusercontent.com/hacarus/hsi-open-dataset/master/img/sugar_salt_flour.png)
 
 ## `sugar_salt_flour_contamination`
 There are three white powders, sugar, salt and flour.
 In addition, there is a tiny white eraser.
 
-![sugar_salt_flour_contamination](./img/sugar_salt_flour_contamination.png)
+![sugar_salt_flour_contamination](https://raw.githubusercontent.com/hacarus/hsi-open-dataset/master/img/sugar_salt_flour_contamination.png)
 
 ## `yatsuhashi (Kyoto sweets)`
 There are two yatsuhashi made by different company and one nama-yatsuhashi.
 
-![yatsuhashi](./img/yatsuhashi.png)
+![yatsuhashi](https://raw.githubusercontent.com/hacarus/hsi-open-dataset/master/img/yatsuhashi.png)
 
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="creative commons license" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
