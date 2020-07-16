@@ -2,11 +2,8 @@
 Hyperspectral image (HSI) open dataset provided by [HACARUS Inc](https://hacarus.com/).
 All the images are taken by [Near-infrared hyperspectral camera](https://www.avaldata.co.jp/products/imaging/item/ahs-u20mir) made by [AVALDATA](http://aval-global.com/). Each HSI directory contains 96 different spectrum images. The size of each image is 192 x 256 pixels. We also provide sample python program to read those dataset.
 
-You can use this dataset for only non-profit issue.
-We would appreciate if you could kindly share with us your knowledges or insights.
-
-Mention to us  
-Twitter: [@HacarusInc](https://twitter.com/hacarusinc?lang=en)
+You can use this dataset for non-profit purpose only. We would appreciate if you could kindly share with us your knowledges or insights. Feel free to mention to us  
+on [Twitter @HacarusInc](https://twitter.com/hacarusinc?lang=en)
 
 # Contents
 
